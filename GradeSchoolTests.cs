@@ -43,7 +43,7 @@ namespace GradeSchool
             {
                 {"Chelsea", 3},
                 {"Logan", 7},
-            }; 
+            };
             Assert.Equal(expected, sut.ShowRoster());
         }
         
