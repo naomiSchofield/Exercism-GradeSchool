@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeSchool", "..\..\Exercism\csharp\grade-school\GradeSchool.csproj", "{CCFAF868-D1FA-4CA1-89FC-2AD2B04F7479}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeSchool", "GradeSchool.csproj", "{C7A8B499-B7A3-4203-A66C-E3399C3D403E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CCFAF868-D1FA-4CA1-89FC-2AD2B04F7479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CCFAF868-D1FA-4CA1-89FC-2AD2B04F7479}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CCFAF868-D1FA-4CA1-89FC-2AD2B04F7479}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CCFAF868-D1FA-4CA1-89FC-2AD2B04F7479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A8B499-B7A3-4203-A66C-E3399C3D403E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A8B499-B7A3-4203-A66C-E3399C3D403E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A8B499-B7A3-4203-A66C-E3399C3D403E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A8B499-B7A3-4203-A66C-E3399C3D403E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
