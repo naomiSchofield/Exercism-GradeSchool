@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/naomi.schofield/.dotnet/store/|arch|/|tfm|",
+      "/Users/naomi.schofield/.nuget/packages"
+    ]
+  }
+}
